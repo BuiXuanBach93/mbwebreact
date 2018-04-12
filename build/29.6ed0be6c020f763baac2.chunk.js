@@ -1,0 +1,1 @@
+webpackJsonp([29],{"./app/containers/SearchSubAddress/reducer.js":function(e,t,r){"use strict";function n(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:s;return arguments[1].type,e}Object.defineProperty(t,"__esModule",{value:!0});var u=r("./node_modules/immutable/dist/immutable.js"),s=(r.n(u),r.i(u.fromJS)({}));t.default=n}});

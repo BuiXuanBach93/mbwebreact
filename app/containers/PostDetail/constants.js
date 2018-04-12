@@ -1,0 +1,1 @@
+export const CHANGE_POSTID = 'mobile/PostDetails/CHANGE_POSTID';
